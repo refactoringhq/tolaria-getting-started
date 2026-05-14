@@ -29,7 +29,7 @@ Supports slash commands for quick formatting, live markdown rendering, inline pr
 
 ### Raw Mode
 
-Shows the actual file characters. Access it with `Cmd+/` or the code button in the breadcrumb bar. Useful when you need precise control over markdown syntax.
+Shows the actual file characters. Access it with `Cmd+\` or the code button in the breadcrumb bar. Useful when you need precise control over markdown syntax.
 
 ### Filename Display
 
