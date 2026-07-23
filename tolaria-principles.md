@@ -13,7 +13,7 @@ Your notes are plain markdown files. They're portable, work with any editor, and
 
 ### 🔌 Git-first
 
-Every vault is a git repository. You get full version history, the ability to use any git remote, and zero dependency on Tolaria servers.
+Git is Tolaria's recommended history and sync layer, not a requirement. A plain Markdown folder works as a vault; enabling Git adds diffs, local history, recovery, remotes, and multi-device sync without depending on Tolaria servers.
 
 ### 🛜 Offline-first, zero lock-in
 
@@ -33,7 +33,7 @@ Types in Tolaria are navigation aids, not enforcement mechanisms. There's no req
 
 ### 🪄AI-first — but not AI-only
 
-A vault of files works very well with AI agents, but you are free to use whatever you want. We support Claude Code and Codex CLI (for now), but you can edit the vault with any AI you want. We provide an AGENTS file ([[agents]]) for your agents to figure out.
+A vault of files works very well with AI agents, but you are free to use whatever you want. Tolaria supports several local coding agents plus direct local and API models. The vault's `AGENTS.md` explains its conventions to external tools without making AI a prerequisite.
 
 ### ⌨️ Keyboard-first
 

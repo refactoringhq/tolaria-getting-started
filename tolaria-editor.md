@@ -11,7 +11,9 @@ The editor is where you write and edit your notes. Tolaria supports two modes:
 
 The default experience. Similar to Notion — type naturally and see formatted output.
 
-Supports slash commands for quick formatting, live markdown rendering, inline previews, drag and drop of images, `inline code`, and so on.
+Supports slash commands for quick formatting, current date and time, live Markdown rendering, editable callouts, inline previews, drag and drop of images, collapsible sections, block selection, code blocks, and more.
+
+Open [[editor-playground]] for examples you can manipulate directly.
 
 - List **item** 1
   - Nested *italic item*
@@ -29,7 +31,9 @@ Supports slash commands for quick formatting, live markdown rendering, inline pr
 
 ### Raw Mode
 
-Shows the actual file characters. Access it with `Cmd+/` or the code button in the breadcrumb bar. Useful when you need precise control over markdown syntax.
+Shows the actual file characters. Access it with `Cmd+\` or `Ctrl+\`, or use the source button in the breadcrumb bar. It is useful when you need precise control over Markdown or YAML frontmatter.
+
+Invalid YAML frontmatter is highlighted so structural mistakes are easier to locate.
 
 ### Filename Display
 

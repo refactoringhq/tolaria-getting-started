@@ -145,6 +145,8 @@ _sheet:
       num_fmt: "0.00%"
     I10:
       wrap_text: true
+    G11:
+      num_fmt: "$#,##0"
 ---
 Workstream,Owner,Status,June,July,August,Q3 total,Trend,Related note
 Editor polish,[[luca-rossi]],Active,4,6,8,=SUM(D2:F2),=F2-D2,[[tolaria-editor]]
@@ -156,3 +158,4 @@ Total planned,,,=SUM(D2:D5),=SUM(E2:E5),=SUM(F2:F5),=SUM(G2:G5),=F6-D6,
 Average per workstream,,,=AVERAGE(D2:D5),=AVERAGE(E2:E5),=AVERAGE(F2:F5),=AVERAGE(G2:G5),=AVERAGE(H2:H5),
 Completion share,,,=D6/$G$6,=E6/$G$6,=F6/$G$6,=G6/$G$6,,
 Launch health,,,,,,"=IF(G6>=40,""On track"",""Review"")",,Edit a number above and watch formulas recalculate
+Dashboard budget,,,,,,=[[project-dashboard]].budget,,Reads frontmatter from another note

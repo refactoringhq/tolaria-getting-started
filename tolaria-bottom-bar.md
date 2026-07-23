@@ -33,7 +33,7 @@ The current Tolaria version. Useful when debugging or checking for new features.
 
 ### 🪄 AI Status
 
-Shows which AI Agents are available — currently Claude Code and Codex are supported — and which one is selected. You can change AI agent from there as well.
+Shows which AI target is selected and whether an installed coding agent is available. Tolaria supports Claude Code, Codex, GitHub Copilot, OpenCode, Pi, Antigravity CLI, Kiro, and Hermes Agent, plus configured direct models.
 
 ![CleanShot 2026-04-17 at 15.51.39@2x.png](attachments/1776433913782-CleanShot_2026-04-17_at_15.51.39_2x.png)
 
