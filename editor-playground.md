@@ -11,8 +11,8 @@ This note contains durable Markdown examples you can edit, select, move, collaps
 > [!NOTE] Rich in Tolaria, portable everywhere
 > This callout stays a normal Markdown blockquote when another editor opens the file.
 
-> [!TIP]- Expand this callout
-> The `-` marker makes it start collapsed. Change the marker in raw mode.
+> [!TIP] Edit this callout
+> Tolaria supports always-expanded callouts. Change the type or title in raw mode.
 
 ## A section to collapse
 
