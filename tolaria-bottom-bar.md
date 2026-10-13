@@ -9,7 +9,7 @@ The bottom bar is Tolaria's status bar — more informational than interactive. 
 
 ### 📂 Vault selection
 
-By clicking on the vault bottom left you can change the active vault, open a new local folder, create a new one by cloning a Git repo, or manage which vaults are included in your graph.
+By clicking on the vault bottom left you can change the active vault, open a vault in a new window, open a new local folder, create a new one by cloning a Git repo, or manage which vaults are included in your graph.
 
 ![CleanShot 2026-04-17 at 15.35.16@2x.png](attachments/1776432929539-CleanShot_2026-04-17_at_15.35.16_2x.png)
 
@@ -19,7 +19,7 @@ When `Use multiple vaults at the same time` is enabled in Settings → Vaults, t
 
 Shows pending uncommitted changes in your vault. When you see a count, you have uncommitted edits. Click to see what's changed or commit directly by clicking on `commit`.
 
-If you have [[autogit]] enabled, the commit button automatically creates a commit message and push all changes to the main remote of the repo.
+The commit dialog can draft a message from your changes, and pushes when the vault has a remote. If you have [[autogit]] enabled, Tolaria creates these checkpoints for you automatically.
 
 ### ⚡ History
 
@@ -39,4 +39,4 @@ Shows which AI target is selected and whether an installed coding agent is avail
 
 ### 📣 Feedback
 
-You can get to Github issues to open bug reports or feature requests
+The Contribute button opens a small menu where you can report a bug, request features, join discussions, contribute code, or support Tolaria as a sponsor.

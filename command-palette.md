@@ -7,11 +7,13 @@ onboarding: 9
 
 One of [[tolaria-principles]] is being keyboard-first. Almost everything has shortcuts.
 
-You can discover shortcuts from the mac menu and from tooltips on buttons.
+You can discover shortcuts from the app menus and from tooltips on buttons.
 
-A lot of actions also have a fall back or a quick way to do them via the command palette, which you can open with `cmd+K`
+A lot of actions also have a fall back or a quick way to do them via the command palette, which you can open with `Cmd+K` (`Ctrl+K` on Windows and Linux)
 
-You can really do almost everything with it, including navigating to sections, creating new notes of a certain type, or perform routine actions.
+You can really do almost everything with it, including navigating to sections, creating new notes of a certain type, switching the theme, exporting a note as PDF, or performing routine actions.
+
+To jump straight to a note or file, use quick open with `Cmd+P` (`Ctrl+P` on Windows and Linux).
 
 You don’t even need to find the exact keywords — the palette is smart enough to match a lot of commands semantically:
 

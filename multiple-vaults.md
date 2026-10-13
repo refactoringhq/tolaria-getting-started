@@ -20,3 +20,5 @@ Included vaults appear together in note lists, search, quick open, backlinks, an
 Each vault keeps its own files and Git repository. Commits, sync, saved views, folder navigation, and vault repair actions still belong to the selected vault. Use `Manage vaults` to rename vaults, choose colors, and set the default vault for new notes.
 
 Cross-vault wikilinks use the target vault's stable alias when Tolaria needs one, such as `[[team/projects/alpha]]`. Links inside the same vault stay simple.
+
+If you'd rather keep vaults completely separate, open one in its own window instead: use the bottom-left vault menu to open it in a new window. Each window works on its own vault.

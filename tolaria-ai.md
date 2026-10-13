@@ -35,4 +35,4 @@ Use the stop control if an agent takes the wrong direction.
 
 ### External tools
 
-Because this vault contains `AGENTS.md`, an external AI tool can understand its file conventions even without Tolaria's built-in panel. Tolaria can also register its MCP server with supported tools so they can search, read, create, update, and append notes through vault-scoped operations.
+Because this vault contains `AGENTS.md`, an external AI tool can understand its file conventions even without Tolaria's built-in panel. Tolaria can also register its MCP server with supported tools such as Claude Code and Cursor, so they can search, read, create, update, and append notes, open a note in Tolaria, and list or attach vaults through vault-scoped operations.

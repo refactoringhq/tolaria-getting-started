@@ -13,9 +13,9 @@ Notes that aren't *organized* yet.
 
 This is inspired by [Tiago Forte](https://www.buildingasecondbrain.com/)'s concept of separating capture from organize. An “organized” note is a note that you know what you will do with. It may belong to a project, to a responsibility, a topic, or any concept related to how you organize work.
 
-Review your inbox (e.g.) weekly to keep it from growing too large. You can disable the Inbox in Settings `cmd+,`) if you don’t like this workflow.
+Review your inbox (e.g.) weekly to keep it from growing too large. You can disable the Inbox in Settings (`Cmd+,` or `Ctrl+,`) if you don’t like this workflow.
 
-You can flag a note as *organized* by clicking on the “circle task” icon in the breadcrumbs bar, or with `cmd+e`.
+You can flag a note as *organized* by clicking on the “circle task” icon in the breadcrumbs bar, or with `Cmd+E` (`Ctrl+E` on Windows and Linux).
 
 ### 🗃️ All Notes
 
@@ -31,7 +31,7 @@ Notes you've manually pinned to keep them top-of-mind. Great for active projects
 
 You can reorder them by dragging them in the sidebar.
 
-Toggle a favorite note from the ⭐ button in the breadcrumbs bar, or with `cmd+d` .
+Toggle a favorite note from the ⭐ button in the breadcrumbs bar, or with `Cmd+D` (`Ctrl+D` on Windows and Linux).
 
 ### 🔍 Views
 
@@ -79,4 +79,4 @@ Folders are listed last because they are a secondary organization method—not t
 
 ### 🗑️ Trash
 
-There is no trash bin, when you delete a note, it’s gone — but your git history is your safety net. You can always recover deleted notes from git if needed.
+There is no trash bin: when you delete a note (`Cmd+Backspace` or `Ctrl+Backspace`), it’s gone — but your git history is your safety net. You can always recover deleted notes from git if needed.

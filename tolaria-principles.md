@@ -41,4 +41,4 @@ Tolaria is designed for power-users who want to use keyboard as much as possible
 
 ### 💪 Built from real use
 
-Tolaria was created for manage my personal vault of 10,000+ notes, and I use it every day. Every feature exists because it solved a real problem.
+Tolaria was created to manage my personal vault of 10,000+ notes, and I use it every day. Every feature exists because it solved a real problem.

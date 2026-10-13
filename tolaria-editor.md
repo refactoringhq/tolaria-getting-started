@@ -11,7 +11,7 @@ The editor is where you write and edit your notes. Tolaria supports two modes:
 
 The default experience. Similar to Notion — type naturally and see formatted output.
 
-Supports slash commands for quick formatting, current date and time, live Markdown rendering, editable callouts, inline previews, drag and drop of images, collapsible sections, block selection, code blocks, and more.
+Supports slash commands for quick formatting, current date and time, live Markdown rendering, editable callouts, inline previews, drag and drop of images, collapsible sections, block selection, code blocks, Mermaid diagrams, math, sandboxed HTML blocks, colored highlights, and more.
 
 Open [[editor-playground]] for examples you can manipulate directly.
 
@@ -41,18 +41,26 @@ The note's filename is always visible at the top of the editor. This keeps you a
 
 ### H1-to-Filename Sync
 
-The first H1 heading in your document automatically sets the filename. After the first sync, changes to the H1 require a manual sync—a refresh button appears next to the title to sync them manually.
+When you create a new untitled note, the first H1 heading automatically sets its filename as soon as it becomes a real title. After that, the filename stays put until you rename it yourself from the breadcrumb bar or the note list.
 
-You can turn off the H1-to+filename sync in the settings
+You can turn this off in Settings → Titles & Filenames (`Cmd+,` or `Ctrl+,`).
 
 ### Wikilinks
 
 Type `[[` to trigger autocomplete from your entire vault. This creates links to other notes, enabling the knowledge graph.
 
-Wikilinks also auto-update if the filename changes.
+Wikilinks also auto-update if the filename changes. If a wikilink points to a note that doesn't exist yet, you can create that note straight from the link.
 
 ![BlockNote image](attachments/1776508281809-CleanShot_2026-04-18_at_12.30.44_2x.png)
 
 ### Breadcrumb Bar Actions
 
 The breadcrumb bar (above the editor) is the hub for note-level actions: favoriting, marking organized, switching editor modes, viewing git diff, and accessing properties.
+
+### Whiteboards
+
+Notes can contain tldraw whiteboards for sketches and diagrams. The board is still stored in the Markdown file, so it lives in the vault and is versioned by Git like everything else. Expand a board to work on it full screen.
+
+### Export as PDF
+
+Use the export button in the editor toolbar, or run `Export note as PDF` from the [[command-palette]], to turn the current note into a PDF.

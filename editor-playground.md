@@ -31,7 +31,7 @@ Use `Cmd+Shift+Up` or `Cmd+Shift+Down` to move selected blocks on macOS. Use `Ct
 
 ## Formatting that round-trips
 
-This sentence contains ==Markdown highlight==. Select other text and press `Cmd+Shift+M` on macOS or `Ctrl+Shift+M` on Windows and Linux.
+This sentence contains ==Markdown highlight==. Select other text and press `Cmd+Shift+M` on macOS or `Ctrl+Shift+M` on Windows and Linux. Use the highlight color picker in the formatting toolbar to switch between yellow, green, red, blue, and purple.
 
 - [ ] Press `Cmd+T` or `Ctrl+T` in a paragraph to turn it into a todo
 - [ ] Type `/date` or `/time` to insert the current value
