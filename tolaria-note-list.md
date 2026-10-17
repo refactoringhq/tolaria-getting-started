@@ -39,4 +39,4 @@ Use it when you want to move through related projects, people, or topics without
 
 The + button in the note list creates a new note of the current type. If you're viewing a type-filtered section, the new note automatically gets that type.
 
-You can also create a new note anywhere with `Cmd+N` (`Ctrl+N` on Windows and Linux) or from the [[command-palette]]
+You can also create a new note anywhere with `Cmd+N` (`Ctrl+N` on Windows and Linux) or from the command-palette
