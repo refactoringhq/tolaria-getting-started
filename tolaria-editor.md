@@ -13,10 +13,11 @@ The default experience. Similar to Notion — type naturally and see formatted o
 
 Supports slash commands for quick formatting, current date and time, live Markdown rendering, editable callouts, inline previews, drag and drop of images, collapsible sections, block selection, code blocks, Mermaid diagrams, math, sandboxed HTML blocks, colored highlights, and more.
 
-Open [[editor-playground]] for examples you can manipulate directly.
+Open editor-playground for examples you can manipulate directly.
 
 - List **item** 1
   - Nested *italic item*
+
 1. **Numbered item** in bold
 2. Numbered second item
 
@@ -63,4 +64,4 @@ Notes can contain tldraw whiteboards for sketches and diagrams. The board is sti
 
 ### Export as PDF
 
-Use the export button in the editor toolbar, or run `Export note as PDF` from the [[command-palette]], to turn the current note into a PDF.
+Use the export button in the editor toolbar, or run `Export note as PDF` from the command-palette, to turn the current note into a PDF.
