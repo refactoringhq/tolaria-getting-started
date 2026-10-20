@@ -21,7 +21,7 @@ No accounts, no subscriptions, no cloud dependencies. Your vault works completel
 
 ### 🔬 Open source
 
-Tolaria is free and [open source](https://github.com/refactoringhq/tolaria). I built this for myself ([[luca-rossi]]) and for sharing it with others.
+Tolaria is free and [open source](https://github.com/refactoringhq/tolaria). I built this for myself (luca-rossi) and for sharing it with others.
 
 ### 📋 Standards-based
 
@@ -37,7 +37,7 @@ A vault of files works very well with AI agents, but you are free to use whateve
 
 ### ⌨️ Keyboard-first
 
-Tolaria is designed for power-users who want to use keyboard as much as possible. A lot of how we designed [[tolaria-editor]] and [[command-palette]] is based on this.
+Tolaria is designed for power-users who want to use keyboard as much as possible. A lot of how we designed tolaria-editor and command-palette is based on this.
 
 ### 💪 Built from real use
 
